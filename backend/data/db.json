@@ -1,0 +1,485 @@
+{
+  "users": [
+    {
+      "_id": "mock_ofcj9o4gm",
+      "createdAt": "2026-05-21T09:01:01.491Z",
+      "updatedAt": "2026-05-21T09:01:01.491Z",
+      "role": "restaurant",
+      "name": "green bakery",
+      "email": "ronita@decarb.io",
+      "password": "$2b$10$owL0ZjUzZY6.sxD7b3xAqeyeNwMSbfVOHv5xsiJ8VT6D3lkApHE5.",
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    {
+      "_id": "mock_lfg8d9gt3",
+      "createdAt": "2026-05-21T09:09:57.359Z",
+      "updatedAt": "2026-05-21T09:09:57.359Z",
+      "role": "customer",
+      "name": "Abhista",
+      "email": "aassbharti@gmail.com",
+      "password": "$2b$10$z76tjQKy.IMUWoWkShbxVeX8SS3nJP210gYY33wGxPsdRbcS41/S2",
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    {
+      "_id": "mock_wvnpg78qj",
+      "createdAt": "2026-05-21T09:43:35.676Z",
+      "updatedAt": "2026-05-21T09:43:35.676Z",
+      "role": "customer",
+      "name": "vxg",
+      "email": "abhisa@gmail.com",
+      "password": "$2b$10$wGZmHp5nHVjkVhzYCXcvBuQOTQSKMuMwQ1Yn2.SpWp1nSJocJDmd.",
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    {
+      "_id": "mock_zvd9pszio",
+      "createdAt": "2026-05-21T09:44:34.872Z",
+      "updatedAt": "2026-05-21T09:44:34.872Z",
+      "role": "restaurant",
+      "name": "vxg",
+      "email": "ronia@decarb.io",
+      "password": "$2b$10$LWvt/W/TQ29.I72p9Pu6i.oRSoL7JXHubV3tF/s9QCUD6X7Iciexe",
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    {
+      "_id": "mock_cm9c6q04e",
+      "createdAt": "2026-05-21T10:38:28.706Z",
+      "updatedAt": "2026-05-21T10:38:28.706Z",
+      "role": "customer",
+      "name": "reeeeeee",
+      "email": "ron@decarb.io",
+      "password": "$2b$10$5d/th7cS/GVkw/aiS9i6.OazjTjGgYQ9fRAUpbOuP.p3zaHBSAqB.",
+      "address": {
+        "area": "grrcc",
+        "locality": "efggge",
+        "pincode": "570015",
+        "state": "Karnataka"
+      },
+      "location": {
+        "lat": 20.5952,
+        "lng": 78.9644
+      }
+    },
+    {
+      "_id": "mock_5vrn6qxhq",
+      "createdAt": "2026-05-23T05:34:39.584Z",
+      "updatedAt": "2026-05-23T05:34:39.584Z",
+      "role": "customer",
+      "name": "Abhista Bharti",
+      "email": "abhista2401b@gmail.com",
+      "password": "$2b$10$AGpBBsCPXH6.FuxUzMmYGO5Z35xo9nunyKTwiRrJ/C..9dFwnV7j6",
+      "address": {
+        "area": "ksnkdfksf",
+        "locality": "d jdbgiig",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      }
+    },
+    {
+      "_id": "mock_sddplcwtq",
+      "createdAt": "2026-05-23T05:54:16.180Z",
+      "updatedAt": "2026-05-23T05:54:16.180Z",
+      "role": "restaurant",
+      "name": "ugyfhfhgvjbkjnk",
+      "email": "ajay@decarb.io",
+      "password": "$2b$10$Cp3i0l.CN/qrBlGthkoENuJtiPqWofQACBu/3OK5SkYKVLpxmZWoy",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      },
+      "gstin": "27AAPFU0930F1ZV"
+    },
+    {
+      "_id": "mock_ja7c1zyrp",
+      "createdAt": "2026-05-23T06:34:55.298Z",
+      "updatedAt": "2026-05-23T06:34:55.298Z",
+      "role": "customer",
+      "name": "vxg",
+      "email": "nia@decarb.io",
+      "password": "$2b$10$AGF9raYs42W6Bb33qBMTd.wIGatXd8SFe7jIpCEb5dtlcXjk1uBYK",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      }
+    },
+    {
+      "_id": "mock_zc9qv7xo4",
+      "createdAt": "2026-05-23T06:47:48.788Z",
+      "updatedAt": "2026-05-23T06:47:48.788Z",
+      "role": "restaurant",
+      "name": "the green kitchen",
+      "email": "gunik@decarb.io",
+      "password": "$2b$10$MAok/Nc6FcDrf5fazazk9uJuLtg36Iy9bSf5zcMu1JtdXjuXPf9iC",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      },
+      "gstin": "27AAPFU0939F1ZV"
+    },
+    {
+      "_id": "mock_lnoko4piy",
+      "createdAt": "2026-05-23T06:55:39.763Z",
+      "updatedAt": "2026-05-23T06:55:39.763Z",
+      "role": "customer",
+      "name": "vxg",
+      "email": "hello@decarb.io",
+      "password": "$2b$10$EeOMPYGMpiL3NWgrlzlWOeWDBuBqXTOUS/.C2DWoPLA2/R.jIKAxS",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      }
+    },
+    {
+      "_id": "mock_x5umutp0n",
+      "createdAt": "2026-05-23T07:08:42.601Z",
+      "updatedAt": "2026-05-23T07:08:42.601Z",
+      "role": "restaurant",
+      "name": "the green kitchen",
+      "email": "GU@decarb.io",
+      "password": "$2b$10$Q/9/sgMnZ5kXYm1NwD2BxO4TEdR4NI7wMG.eEhIGwOjQBtVOXwWxO",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      },
+      "gstin": "27AAPFU0939F1ZV"
+    },
+    {
+      "_id": "mock_5ew9qs3fo",
+      "createdAt": "2026-05-23T07:11:03.001Z",
+      "updatedAt": "2026-05-23T07:11:03.001Z",
+      "role": "restaurant",
+      "name": "the green kitchen",
+      "email": "r@decarb.io",
+      "password": "$2b$10$zgcUJzTc/u1/LDn2C9kiQObMqf1REq7CMycW2a74YaD1QWgOqg7Pm",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      },
+      "gstin": "27ABCDE1234F2Z5"
+    },
+    {
+      "_id": "mock_tk8aighhg",
+      "createdAt": "2026-05-25T09:13:45.034Z",
+      "updatedAt": "2026-05-25T09:13:45.035Z",
+      "role": "restaurant",
+      "name": "the green kitchen",
+      "email": "ri@decarb.io",
+      "password": "$2b$10$yS3Sf5vCPY2wg.5HFng4ruR3RCP7cgOsdUvlyjqoLDzEQWVawbl4u",
+      "address": {
+        "area": "JSS Ladies hostel",
+        "locality": "hootagalli",
+        "pincode": "500015",
+        "state": "Karnataka"
+      },
+      "location": {
+        "lat": 20.5952,
+        "lng": 78.9644
+      },
+      "gstin": "27AAPFU0939F1ZV"
+    },
+    {
+      "_id": "mock_x5q5sr071",
+      "createdAt": "2026-05-25T09:17:01.234Z",
+      "updatedAt": "2026-05-25T09:17:01.234Z",
+      "role": "customer",
+      "name": "vxg",
+      "email": "llo@decarb.io",
+      "password": "$2b$10$HdvfNNzdSdDXqhVLHYtfkeiU4fuzK1oKXYN2TAaxRobyCxlM0fHX.",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      }
+    },
+    {
+      "_id": "mock_v4lu1ys2r",
+      "createdAt": "2026-05-25T09:55:17.698Z",
+      "updatedAt": "2026-05-25T09:55:17.698Z",
+      "role": "restaurant",
+      "name": "the green kitchen",
+      "email": "nq@decarb.io",
+      "password": "$2b$10$3.8SE1dyHLq5q.RyRqvVveFecXoB..qQHN5jcubTvvrrgO7/ZSNfm",
+      "address": {
+        "area": "grrcc",
+        "locality": "efggge",
+        "pincode": "570015",
+        "state": "Karnataka"
+      },
+      "location": {
+        "lat": 20.5952,
+        "lng": 78.9644
+      },
+      "gstin": "27ABCDE1234F2Z5"
+    },
+    {
+      "_id": "mock_tmtxg9vmu",
+      "createdAt": "2026-05-27T09:08:42.204Z",
+      "updatedAt": "2026-05-27T09:08:42.204Z",
+      "role": "restaurant",
+      "name": "the green kitchen",
+      "email": "t@decarb.io",
+      "password": "$2b$10$jTSzY3aqY1otGkudGuvfNeP540CQRMtMBY6BZFs6UC9lBk5OXYBkO",
+      "address": {
+        "area": "grrcc",
+        "locality": "efggge",
+        "pincode": "570015",
+        "state": "Karnataka"
+      },
+      "location": {
+        "lat": 20.5952,
+        "lng": 78.9644
+      },
+      "gstin": "27ABCDE1234F2Z5"
+    },
+    {
+      "_id": "mock_5ur0gescy",
+      "createdAt": "2026-05-27T09:46:17.095Z",
+      "updatedAt": "2026-05-27T09:46:17.095Z",
+      "role": "customer",
+      "name": "vxg",
+      "email": "g@decarb.io",
+      "password": "$2b$10$bjwxwSgDP3Nk72Q5LBp.B.vKVLMCSa5ScRWS1YYcGdLgCiqq8PZ7e",
+      "address": {
+        "area": "jayachamarajendra",
+        "locality": "Everest",
+        "pincode": "400094",
+        "state": "Maharashtra"
+      },
+      "location": {
+        "lat": 20.603099999999998,
+        "lng": 78.9723
+      }
+    },
+    {
+      "_id": "mock_oy7bn3ueq",
+      "createdAt": "2026-05-27T10:05:13.545Z",
+      "updatedAt": "2026-05-27T10:05:13.546Z",
+      "role": "customer",
+      "name": "ron",
+      "email": "lai@gmail.com",
+      "password": "$2b$10$Qy0IciOMXjIT6sjeUzg5xOliptgQg7PNvaR4XF5m4C7oXJx4us68y",
+      "address": {
+        "area": "hootagalli",
+        "locality": "khb",
+        "pincode": "755012",
+        "state": "karnataka"
+      },
+      "location": {
+        "lat": 20.5949,
+        "lng": 78.9641
+      }
+    },
+    {
+      "_id": "mock_t2aq5u97y",
+      "createdAt": "2026-05-27T11:18:51.924Z",
+      "updatedAt": "2026-05-27T11:18:51.924Z",
+      "role": "restaurant",
+      "name": "roni",
+      "email": "lait@gmail.com",
+      "password": "$2b$10$/ZNri2FCV3mmulk5VuTjveQ8gWNXZDnBVZ98iquLWmLiu1Z2K9bay",
+      "address": {
+        "area": "hootagalli",
+        "locality": "khb",
+        "pincode": "755012",
+        "state": "karnataka"
+      },
+      "location": {
+        "lat": 20.5949,
+        "lng": 78.9641
+      },
+      "gstin": "27AAPFU0939F1ZV"
+    }
+  ],
+  "foodlistings": [
+    {
+      "_id": "mock_vadpox6u1",
+      "createdAt": "2026-05-21T09:03:03.555Z",
+      "updatedAt": "2026-05-21T10:44:05.761Z",
+      "title": "sandwhich",
+      "description": "sandwhich",
+      "restaurant_id": "mock_ofcj9o4gm",
+      "price": 40,
+      "original_price": 60,
+      "quantity": 0,
+      "category": "meals",
+      "pickup_time": "2026-05-21T11:02:00.000Z",
+      "co2_saved": 2.5,
+      "status": "sold",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "_id": "mock_psvbffx61",
+      "createdAt": "2026-05-21T10:01:50.441Z",
+      "updatedAt": "2026-05-21T10:43:21.401Z",
+      "title": "rrr",
+      "description": "dd",
+      "restaurant_id": "mock_zvd9pszio",
+      "price": 45,
+      "original_price": 65,
+      "quantity": 0,
+      "category": "meals",
+      "pickup_time": "2026-05-21T12:01:00.000Z",
+      "co2_saved": 2.5,
+      "status": "sold",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "_id": "mock_nk0hk9vzu",
+      "createdAt": "2026-05-23T06:54:23.433Z",
+      "updatedAt": "2026-05-23T06:56:33.645Z",
+      "title": "burger",
+      "description": "surplus meal",
+      "restaurant_id": "mock_zc9qv7xo4",
+      "price": 120,
+      "original_price": 220,
+      "quantity": 0,
+      "category": "meals",
+      "pickup_time": "2026-05-23T08:54:00.000Z",
+      "co2_saved": 2.5,
+      "status": "sold",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "_id": "mock_7zv27btv1",
+      "createdAt": "2026-05-25T09:15:26.141Z",
+      "updatedAt": "2026-05-27T08:48:53.841Z",
+      "title": "burger",
+      "description": "",
+      "restaurant_id": "mock_tk8aighhg",
+      "price": 120,
+      "original_price": 219.98,
+      "quantity": 9,
+      "category": "meals",
+      "pickup_time": "2026-05-25T11:14:00.000Z",
+      "co2_saved": 25,
+      "status": "expired",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "_id": "mock_vflul41jr",
+      "createdAt": "2026-05-27T11:21:30.397Z",
+      "updatedAt": "2026-05-27T11:23:08.129Z",
+      "title": "Veg Burger",
+      "description": "Vegetables of choices, fresh bun ",
+      "restaurant_id": "mock_t2aq5u97y",
+      "price": 50,
+      "original_price": 90,
+      "quantity": 0,
+      "category": "bakery",
+      "pickup_time": "2026-05-27T13:18:00.000Z",
+      "co2_saved": 2.5,
+      "status": "sold",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "preparation_date": "2026-05-27",
+      "preparation_time": "02:00"
+    }
+  ],
+  "orders": [
+    {
+      "_id": "mock_z65yjv69u",
+      "createdAt": "2026-05-21T10:43:21.406Z",
+      "updatedAt": "2026-05-21T10:43:21.406Z",
+      "user_id": "mock_cm9c6q04e",
+      "food_id": "mock_psvbffx61",
+      "quantity": 1,
+      "total_price": 45,
+      "status": "placed"
+    },
+    {
+      "_id": "mock_vwsis2jmx",
+      "createdAt": "2026-05-21T10:44:05.768Z",
+      "updatedAt": "2026-05-21T10:44:05.768Z",
+      "user_id": "mock_cm9c6q04e",
+      "food_id": "mock_vadpox6u1",
+      "quantity": 1,
+      "total_price": 40,
+      "status": "placed"
+    },
+    {
+      "_id": "mock_miaduzxz6",
+      "createdAt": "2026-05-23T06:56:33.656Z",
+      "updatedAt": "2026-05-23T06:56:33.656Z",
+      "user_id": "mock_lnoko4piy",
+      "food_id": "mock_nk0hk9vzu",
+      "quantity": 1,
+      "total_price": 120,
+      "status": "placed"
+    },
+    {
+      "_id": "mock_pfz9wu8mb",
+      "createdAt": "2026-05-25T09:17:46.501Z",
+      "updatedAt": "2026-05-25T09:17:46.504Z",
+      "user_id": "mock_x5q5sr071",
+      "food_id": "mock_7zv27btv1",
+      "quantity": 1,
+      "total_price": 120,
+      "status": "placed"
+    },
+    {
+      "_id": "mock_wfvgphm1f",
+      "createdAt": "2026-05-27T11:23:08.130Z",
+      "updatedAt": "2026-05-27T11:23:08.130Z",
+      "user_id": "mock_oy7bn3ueq",
+      "food_id": "mock_vflul41jr",
+      "quantity": 1,
+      "total_price": 50,
+      "status": "placed"
+    }
+  ]
+}
